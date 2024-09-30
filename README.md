@@ -1,14 +1,8 @@
 ## Getting Started
+This is a web3 app in modern nextjs with tailwind.
+ 
+The app was made in 5 days as a practice. 
 
-Use current version of node and install dependencies:
 
-```bash
-nvm use  
-pnpm i  
-```  
+https://github.com/user-attachments/assets/cb72eac4-d480-4392-8abb-9377f656c09d
 
-Run the development server:
-
-```bash 
-pnpm run dev
-```  
